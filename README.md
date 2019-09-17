@@ -11,6 +11,7 @@ Version:  15.9.2
 How to run this project? 
 
  - Open the MagazineStoreApp in Visual Studio 2017 or latest version of IDE 
+ - select program.cs as the startup file
  - Press the start button or hit the F5 or Ctrl + F5 to run 
  
  
