@@ -1,0 +1,10 @@
+d:\dotnet\projects\MagazineStoreApp\MagazineStoreApp\bin\Debug\MagazineStoreApp.exe.config
+d:\dotnet\projects\MagazineStoreApp\MagazineStoreApp\bin\Debug\MagazineStoreApp.exe
+d:\dotnet\projects\MagazineStoreApp\MagazineStoreApp\bin\Debug\MagazineStoreApp.pdb
+d:\dotnet\projects\MagazineStoreApp\MagazineStoreApp\obj\Debug\MagazineStoreApp.csprojAssemblyReference.cache
+d:\dotnet\projects\MagazineStoreApp\MagazineStoreApp\obj\Debug\MagazineStoreApp.csproj.CoreCompileInputs.cache
+d:\dotnet\projects\MagazineStoreApp\MagazineStoreApp\obj\Debug\MagazineStoreApp.exe
+d:\dotnet\projects\MagazineStoreApp\MagazineStoreApp\obj\Debug\MagazineStoreApp.pdb
+d:\dotnet\projects\MagazineStoreApp\MagazineStoreApp\bin\Debug\Newtonsoft.Json.dll
+d:\dotnet\projects\MagazineStoreApp\MagazineStoreApp\bin\Debug\Newtonsoft.Json.xml
+d:\dotnet\projects\MagazineStoreApp\MagazineStoreApp\obj\Debug\MagazineStoreApp.csproj.CopyComplete
